@@ -1,0 +1,33 @@
+Energy Transfer gather list of it {
+  "companyName": "", 
+  "companyInfo": {
+  "companyPurpose": "",
+  "companyOrigin": "",
+  "infoSourceURL": "",
+},
+  "sharedDataType":"",
+  "DataShared":"",
+  "thirdPartyCompanies": [{
+    "companyName": "",
+    "sharedDataType":"",
+    "infoSourceURL": "",
+    "companyInfo": {
+    "companyPurpose": "",
+    "companyOrigin": ""
+}
+  }
+{
+    "companyName": "",
+    "sharedDataType":"",
+    "infoSourceURL": "",
+    "companyInfo": {
+    "companyPurpose": "",
+    "companyOrigin": ""
+}
+  }
+...
+...
+...
+]
+
+} (give specific companies only)
